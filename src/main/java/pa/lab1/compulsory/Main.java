@@ -1,3 +1,5 @@
+package pa.lab1.compulsory;
+
 import java.lang.Math;
 
 public class Main<n> {
@@ -14,7 +16,7 @@ public class Main<n> {
         int hex = 0xFF;
         n = n + hex;
         n = n * 6;
-        int sum = 0;
+        int sum;
         while (n > 9) {
             sum = 0;
             while (n > 0) {
