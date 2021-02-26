@@ -16,7 +16,7 @@ multiply the result by 6;
 Compute the sum of the digits in the result obtained in the previous step. This is the new result. While the new result has more than one digit, continue to sum the digits of the result.
 Display on the screen the message: "Willy-nilly, this semester I will learn " + languages[result].
 
-####Optional (2p)
+###Optional (2p)
 Let n be an integer given as a command line argument. Validate the argument!
 Create a n x n matrix, representing the adjacency matrix of a random graph .
 Display on the screen the generated matrix (you might want to use the geometric shapes from the Unicode chart to create a "pretty" representation of the matrix).
@@ -32,13 +32,13 @@ Run the main class for the compulsory part.
 Adjust the run config for different parameters for the optional part. (Default is 5)
 
 ## Output
-####Compulsory
+###Compulsory
 ```
 Hello World!
 9
 Willy-nilly, this semester I will learn Java
 ```
-####Optional
+###Optional
 ```
 [0, 1, 1, 0, 0]
 [1, 0, 0, 1, 1]
