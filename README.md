@@ -3,7 +3,7 @@
 ### Tudor Badea 2A2
 
 
-####Compulsory (1p)
+######Compulsory (1p)
 Write a Java application that implements the following operations:
 Display on the screen the message "Hello World!". Run the application. If it works, go to step 2 :)
 Define an array of strings languages, containing {"C", "C++", "C#", "Python", "Go", "Rust", "JavaScript", "PHP", "Swift", "Java"}
@@ -32,13 +32,13 @@ Run the main class for the compulsory part.
 Adjust the run config for different parameters for the optional part. (Default is 5)
 
 ## Output
-###Compulsory
+######Compulsory
 ```
 Hello World!
 9
 Willy-nilly, this semester I will learn Java
 ```
-###Optional
+######Optional
 ```
 [0, 1, 1, 0, 0]
 [1, 0, 0, 1, 1]
