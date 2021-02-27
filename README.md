@@ -1,4 +1,4 @@
-# Lab1 Compulsory
+# Lab1
 
 ### Tudor Badea 2A2
 
